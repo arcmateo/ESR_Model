@@ -1,5 +1,5 @@
 # ESR dynamic model (Python)
-Python implementation of the phenomenological-based dynamic model for an ethanol steam reforming (ESR) in a staged-separation membrane reactor (SSMR), including reforming and hydrogen separation stages.
+Python implementation of the phenomenological-based dynamic model for ethanol steam reforming (ESR) in a staged-separation membrane reactor (SSMR), including reforming and hydrogen separation stages.
 
 ## Reference
 If you use this code, please cite the paper:
